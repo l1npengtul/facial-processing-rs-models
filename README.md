@@ -8,3 +8,4 @@ Each of the files have their own license. Please refer to their own repositories
 ## Models:
 - DLib: https://github.com/davisking/dlib-models
 - OpenVTuber: https://github.com/1996scarlet/OpenVtuber
+- SeetaFace: https://github.com/seetaface/SeetaFaceEngine
